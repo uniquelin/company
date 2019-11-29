@@ -42,7 +42,7 @@
 .mid .mid_cover{position: relative;bottom: 370px;opacity: 0;}
 .mid .mid_cover:hover{opacity: 1;}
 /*第三部分*/
-.content_three{width: 100%;height: 505px;background: url("../img/content_three.png") no-repeat;background-position: center;}
+.content_three{width: 100%;height: 505px;background: url("../images/content_three.png") no-repeat;background-position: center;}
 .three_wrap{text-align: center;padding-top: 140px;}
 .three_wrap span{color: #666;font-size: 14px;font-family: 微软雅黑;display: block;padding: 2px 0;}
 .three_wrap div:nth-child(2){margin-top: 50px;}
